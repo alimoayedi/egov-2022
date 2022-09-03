@@ -1,6 +1,6 @@
 # egov-2022
 
-*About*
+**About**
 
 This directory contains the code and dataset used for the publication "Automated Topic Categorisation of Citizens’ Contributions: Reducing Manual Labelling Efforts Through Active Learning.", published in the Proceedings of the International Conference on Electronic Government EGOV 2022.
 
@@ -8,7 +8,7 @@ This work is based on research in the project CIMT/Partizipationsnutzen, which i
 
 ----------
 
-Content
+**Content**
 
 Code
 
@@ -34,7 +34,7 @@ Results
 
 ----------
 
-Citation
+**Citation**
 
 If you use the dataset, please cite the following paper:
 
@@ -42,12 +42,12 @@ If you use the dataset, please cite the following paper:
 
 ----------
 
-License
+**License**
 
 The annotated data corpus is available under the Creative Commons CC BY-SA License (https://creativecommons.org/licenses/by-sa/4.0/).
 
 ----------
 
-Contact Person
+**Contact Person**
 
 Julia Romberg, julia.romberg@hhu.de, https://www.cimt-hhu.de/en/team/romberg/
