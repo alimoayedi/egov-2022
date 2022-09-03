@@ -22,7 +22,7 @@ Data
 
 -> Cycling-Dialogues contains the original dataset and the terms of use.
 
--> "dataset-preprocessed.pkl" is a preprocessed file which enriches the original dataset with preprocessed text (title and text were concatenated, tokenized and lowercased). This file is used for running the experiments.
+-> "dataset-preprocessed.pkl" is a preprocessed file which enriches the original dataset with preprocessed text (title and text were concatenated, tokenized and lowercased). This file is used for running the traditional machine learning experiments.
 
 Results
 
