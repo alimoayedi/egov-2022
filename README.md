@@ -12,11 +12,15 @@ Content
 
 Code
 
--> active-learning
+-> active-learning-traditional
 
--> full-supervision-learning
+-> full-supervision-traditional
 
-The folders contain the experimental code. The deep learning experiments were realised using Jupyter Notebooks on Google Colab.
+The folders contain the experimental code for the traditional models.
+
+-> BERT.ipynb
+
+The deep learning experiments were realised using Jupyter Notebooks on Google Colab. Active and Full Supervision Learning can both be selected in the notebook.
 
 Data
 
