@@ -1,6 +1,6 @@
 # egov-2022
 
-About
+*About*
 
 This directory contains the code and dataset used for the publication "Automated Topic Categorisation of Citizens’ Contributions: Reducing Manual Labelling Efforts Through Active Learning.", published in the Proceedings of the International Conference on Electronic Government EGOV 2022.
 
