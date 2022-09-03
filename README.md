@@ -11,15 +11,21 @@ This work is based on research in the project CIMT/Partizipationsnutzen, which i
 Content
 
 Code
+
 -> active-learning
+
 -> full-supervision-learning
+
 The folders contain the experimental code. The deep learning experiments were realised using Jupyter Notebooks on Google Colab.
 
 Data
+
 -> Cycling-Dialogues contains the original dataset and the terms of use.
--> "dataset-preprocessed.pkl" is a preprocessed file which enriches the original dataset with preprocessed text (title and text were concatenated, tokenized and lowercased). This file is used for running the experiments.
+
+-> "dataset-preprocessed.pkl" is a preprocessed file which enriches the original dataset with preprocessed text (title and text were concatenated, tokenized and lowercased). This file is used for running the traditional machine learning experiments.
 
 Results
+
 -> An empty folder in which models are stored (after running the code for full supervision baselines).
 
 ----------
